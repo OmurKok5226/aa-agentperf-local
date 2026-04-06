@@ -5,3 +5,4 @@ Notes and usage details for aa-agentperf-local.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- fix a small wording issue

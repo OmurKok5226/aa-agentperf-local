@@ -8,3 +8,4 @@ Notes and usage details for aa-agentperf-local.
 - fix a small wording issue
 - fix a small wording issue
 - clarify the setup steps
+- clarify the setup steps
